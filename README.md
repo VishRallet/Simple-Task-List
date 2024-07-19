@@ -4,10 +4,10 @@
 The Task Management App is a Python-based tool designed for managing tasks with functionalities for adding, removing, listing, and recommending tasks. It uses machine learning to suggest high-priority tasks based on user input.
 
 ## Features
--Add Task: Allows users to add a new task with a description and priority.
--Remove Task: Enables users to remove a task by its description.
--List Tasks: Displays all existing tasks along with their descriptions and priorities.
--Recommend Task: Provides a recommendation for a high-priority task based on a trained machine learning model.
+- Add Task: Allows users to add a new task with a description and priority.
+- Remove Task: Enables users to remove a task by its description.
+- List Tasks: Displays all existing tasks along with their descriptions and priorities.
+- Recommend Task: Provides a recommendation for a high-priority task based on a trained machine learning model.
 
 ## Requirements
 -Python 3.x
